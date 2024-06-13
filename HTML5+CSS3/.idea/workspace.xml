@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4604c315-34c8-4ce5-850d-8af6dbfee9fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/代码/08-HTML网页排版.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/09-HTML语义化标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/10-HTML块级元素行内元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/11-HTML常用的文本标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/12-HTML不常用的文本标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/img/不常用的文本标签.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/ChromeSetup_32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/ChromeSetup_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/VSCodeSetup_32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/VSCodeSetup_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/工具/FSCapture6.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="douxiaohu &lt;444701927@qq.com&gt;" />
+        <option value="douxiaohu" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;douxiaohu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:douxiaohu/-.git&quot;,
+    &quot;accountId&quot;: &quot;82e3efaa-9b8b-4819-bfee-def5c974319a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hmEa7YYwmengiegM1O5VFuUnzu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/study/HTML5+CSS3/代码/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\HTML5+CSS3\代码\img" />
+      <recent name="D:\study\HTML5+CSS3\代码" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4604c315-34c8-4ce5-850d-8af6dbfee9fa" name="Changes" comment="" />
+      <created>1718190913262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718190913262</updated>
+      <workItem from="1718190914217" duration="37000" />
+      <workItem from="1718190965907" duration="104000" />
+      <workItem from="1718191075811" duration="68000" />
+      <workItem from="1718191160563" duration="76000" />
+      <workItem from="1718191245186" duration="220000" />
+      <workItem from="1718191472411" duration="387000" />
+      <workItem from="1718191868803" duration="348000" />
+      <workItem from="1718192234772" duration="5004000" />
+      <workItem from="1718275247605" duration="120000" />
+      <workItem from="1718275375876" duration="4947000" />
+    </task>
+    <task id="LOCAL-00001" summary="day1 学习了HTML基本结构 文档声明 编码格式 设置语言">
+      <option name="closed" value="true" />
+      <created>1718194577028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718194577028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day1 html标准结构书写">
+      <option name="closed" value="true" />
+      <created>1718197374891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718197374891</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day1 学习了HTML基本结构 文档声明 编码格式 设置语言" />
+    <MESSAGE value="day1 html标准结构书写" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1 html标准结构书写" />
+  </component>
+</project>
