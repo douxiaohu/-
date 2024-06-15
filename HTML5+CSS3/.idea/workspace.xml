@@ -5,17 +5,208 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4604c315-34c8-4ce5-850d-8af6dbfee9fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/代码/08-HTML网页排版.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/代码/09-HTML语义化标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/代码/10-HTML块级元素行内元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/代码/11-HTML常用的文本标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/代码/12-HTML不常用的文本标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/代码/img/不常用的文本标签.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/ChromeSetup_32.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/ChromeSetup_64.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/VSCodeSetup_32.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/资料/安装包/VSCodeSetup_64.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/资料/工具/FSCapture6.exe" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/01-HTML标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/02-HTML属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/03-HTML格式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/04-HTML文档声明.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/05-HTML编码格式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/06-HTML设置语言.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/07-HTML标准结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/08-HTML网页排版.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/09-HTML语义化标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/10-HTML块级元素行内元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/11-HTML常用的文本标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/12-HTML不常用的文本标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/13-HTML图片标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/14-HTML相对路径绝对路径.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/15-HTMLBase64图片格式显示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/16-HTMLa标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg-lb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg-lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg-rb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg-rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bg03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/bike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/nichousha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/shanghai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/不常用的文本标签.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/喜羊羊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/悟空.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/img/灰太狼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/代码.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/尚品汇_设计稿.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/笔记/CSS2笔记.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/笔记/CSS3笔记.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/笔记/HTML4笔记.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/笔记/HTML5笔记.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/item1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/item2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/item3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/item4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/item5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/flex布局图片/口述设计稿.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/resource/内部资源.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/resource/如何一夜暴富.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/resource/小姐姐.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/resource/小电影.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/resource/我的自拍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg-lb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg-lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg-rb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg-rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bg03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/bike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/shanghai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/你瞅啥.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/喜羊羊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/悟空.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片/灰太狼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/动态图.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/正常.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/水.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/水.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/演示base64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/身怀绝技.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/图片格式/透明.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/封面.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/小曲.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/尚品汇_设计稿.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/方正手迹.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/浮动布局练习.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/浮动布局练习_标注.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/资料/翩翩体-简.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/01-HTML标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/02-HTML属性.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/03-HTML格式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/04-HTML文档声明.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/05-HTML编码格式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/06-HTML设置语言.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/07-HTML标准结构.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/08-HTML网页排版.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/09-HTML语义化标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/10-HTML块级元素行内元素.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/11-HTML常用的文本标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/12-HTML不常用的文本标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/img/不常用的文本标签.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/代码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/尚品汇_设计稿.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/笔记/CSS2笔记.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/笔记/CSS3笔记.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/笔记/HTML4笔记.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/笔记/HTML5笔记.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/item1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/item2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/item3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/item4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/item5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/flex布局图片/口述设计稿.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/resource/内部资源.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/resource/如何一夜暴富.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/resource/小姐姐.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/resource/小电影.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/resource/我的自拍.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg-lb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg-lt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg-rb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg-rt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bg03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/img9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/shanghai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/start.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/video.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/你瞅啥.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/喜羊羊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/奥特曼.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/奥特曼.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/怪兽.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/怪兽.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/悟空.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片/灰太狼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/动态图.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/正常.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/水.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/水.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/演示base64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/身怀绝技.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/图片格式/透明.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/封面.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/小曲.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/尚品汇_设计稿.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/方正手迹.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/浮动布局练习.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/浮动布局练习_标注.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/资料/翩翩体-简.ttf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +238,37 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2hmEa7YYwmengiegM1O5VFuUnzu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/study/HTML5+CSS3/代码/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/HTML5+CSS3/code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\HTML5+CSS3\code" />
       <recent name="D:\study\HTML5+CSS3\代码\img" />
       <recent name="D:\study\HTML5+CSS3\代码" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\HTML5+CSS3\代码" />
+      <recent name="D:\study\HTML5+CSS3\代码\img" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -95,7 +295,10 @@
       <workItem from="1718191868803" duration="348000" />
       <workItem from="1718192234772" duration="5004000" />
       <workItem from="1718275247605" duration="120000" />
-      <workItem from="1718275375876" duration="4947000" />
+      <workItem from="1718275375876" duration="5130000" />
+      <workItem from="1718421617426" duration="1495000" />
+      <workItem from="1718423290654" duration="2434000" />
+      <workItem from="1718426264895" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="day1 学习了HTML基本结构 文档声明 编码格式 设置语言">
       <option name="closed" value="true" />
@@ -113,15 +316,25 @@
       <option name="project" value="LOCAL" />
       <updated>1718197374891</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day2 HTML网络排版 语义化标签 块级元素以及行内元素 以及常用的html标签 &#10;学习到p26">
+      <option name="closed" value="true" />
+      <created>1718281215416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718281215416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="day1 学习了HTML基本结构 文档声明 编码格式 设置语言" />
     <MESSAGE value="day1 html标准结构书写" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1 html标准结构书写" />
+    <MESSAGE value="day2 HTML网络排版 语义化标签 块级元素以及行内元素 以及常用的html标签 &#10;学习到p26" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2 HTML网络排版 语义化标签 块级元素以及行内元素 以及常用的html标签 &#10;学习到p26" />
   </component>
 </project>
