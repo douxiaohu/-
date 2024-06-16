@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4604c315-34c8-4ce5-850d-8af6dbfee9fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code/17-HTMLa标签跳转内部文件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/18-HTMLa标签跳转锚点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/19-HTMLa标签打开指定应用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/img/如何一夜暴富.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/img/小姐姐.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/img/小电影.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/img/我的自拍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/20-HTML列表.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +98,8 @@
       <workItem from="1718275375876" duration="5130000" />
       <workItem from="1718421617426" duration="1495000" />
       <workItem from="1718423290654" duration="2434000" />
-      <workItem from="1718426264895" duration="3047000" />
+      <workItem from="1718426264895" duration="3088000" />
+      <workItem from="1718541099635" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="day1 学习了HTML基本结构 文档声明 编码格式 设置语言">
       <option name="closed" value="true" />
@@ -138,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718427153871</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day3 学习a标签的相关使用">
+      <option name="closed" value="true" />
+      <created>1718429362516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718429362516</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +164,7 @@
     <MESSAGE value="day1 html标准结构书写" />
     <MESSAGE value="day2 HTML网络排版 语义化标签 块级元素以及行内元素 以及常用的html标签 &#10;学习到p26" />
     <MESSAGE value="day3 学习html相对路径绝对路径 图片格式 以及a标签等" />
-    <option name="LAST_COMMIT_MESSAGE" value="day3 学习html相对路径绝对路径 图片格式 以及a标签等" />
+    <MESSAGE value="day3 学习a标签的相关使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3 学习a标签的相关使用" />
   </component>
 </project>
